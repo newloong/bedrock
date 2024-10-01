@@ -19,7 +19,7 @@ export default async (app) => {
     .copyFile('jquery.min.js', await app.module.getDirectory(`jquery/dist`));
 
   const fontawesomeDir = await app.module.getDirectory(
-    `@fortawesome/fontawesome-pro`,
+    `@fortawesome/fontawesome-free`,
   );
 
   [
@@ -28,7 +28,7 @@ export default async (app) => {
     'svgs/brands/youtube.svg',
     'svgs/regular/envelope.svg',
     'svgs/regular/link.svg',
-    'svgs/regular/share-nodes.svg',
+    'svgs/solid/share-nodes.svg',
     'svgs/solid/calendar-week.svg',
     'svgs/solid/circle-check.svg',
     'svgs/solid/circle-exclamation.svg',

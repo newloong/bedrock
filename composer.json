@@ -36,6 +36,10 @@
     },
     {
       "type": "composer",
+      "url":"https://connect.advancedcustomfields.com"
+    },
+    {
+      "type": "composer",
       "url": "https://generoi.github.io/packagist/"
     }
   ],
@@ -70,9 +74,7 @@
     "wpackagist-plugin/safe-svg": "^2.1",
     "wpackagist-plugin/limit-login-attempts-reloaded": "^2.6.1",
     "wpackagist-plugin/wp-sanitize-file-name-plus": "^1.0",
-    "generoi/advanced-custom-fields-pro": "^6.0",
-    "generoi/gravityforms": "^2.4",
-    "generoi/polylang-pro": "^3.3",
+    "wpengine/advanced-custom-fields-pro": "^6.0",
     "wpackagist-plugin/wordpress-seo": "^23.0",
     "wpackagist-plugin/google-tag-manager": "^1.0",
     "wpackagist-plugin/redirection": "^5.0",

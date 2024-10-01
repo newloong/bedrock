@@ -27,7 +27,7 @@ export default async (app) => {
     'svgs/brands/twitter.svg',
     'svgs/brands/youtube.svg',
     'svgs/regular/envelope.svg',
-    'svgs/regular/link.svg',
+    'svgs/solid/link.svg',
     'svgs/solid/share-nodes.svg',
     'svgs/solid/calendar-week.svg',
     'svgs/solid/circle-check.svg',
